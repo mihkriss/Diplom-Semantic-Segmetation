@@ -16,17 +16,27 @@
 
 ## Структура репозитория
 Diplom-Semantic-Segmetation/
-│
+
 ├── dataset/ # Данные для обучения и валидации
+
 │
+
 ├── metrics/ # Скрипты для расчета метрик 
+
 │
+
 ├── test/ Тестовые примеры и скрипты
+
 │
+
 ├── generation_images_interface/# Интерфейс для генерации изображений 
+
 │
+
 ├── Stable Diffusion + ControlNet + LoRA/ Диффузионные модели
+
 │
+
 └── README.md
 
 ## Основные возможности
