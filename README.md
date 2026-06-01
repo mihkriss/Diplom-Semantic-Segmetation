@@ -1,6 +1,7 @@
-# Diploma: Semantic Segmentation & Generative Models
+# Diplom: Semantic Segmentation & Generative Models
 
-> **Дипломный проект** по теме семантической сегментации с элементами генерации изображений (Stable Diffusion + ControlNet + LoRA).
+> **ВКРМ** по теме "Разработка системы нейросетевой генерации изображений городских сцен на основе семантических карт"
+> (Stable Diffusion + ControlNet + LoRA)
 
 ## 📌 О проекте
 
